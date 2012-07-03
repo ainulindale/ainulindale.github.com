@@ -61,9 +61,8 @@ a:hover {
 }
 
 #main p {
-  margin: 0 10px 100px 10px;
+  margin: 50px 10px 50px 10px;
   font-size: 11pt;
-  line-height: 2;
 }
 
 #logo {
@@ -157,10 +156,6 @@ li.repo a:hover {
 }
 
 li.repo h2, li.repo h3, li.repo p {
-  margin: 10px 15px;
-}
-iframe.FlattrButton {
-  display: block;
   margin: 10px 15px;
 }
 
